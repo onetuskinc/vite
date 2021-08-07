@@ -1,3 +1,6 @@
+**THIS IS A PATCHED VERSION WITH THE DIST FILES INCLUDED**
+
+
 <p style="text-align: center">
   <img src="./docs/static/preview.svg">
 </p>
